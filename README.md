@@ -1,2 +1,2 @@
 # Swapper
-sadsadasd
+Updater for Swapper skin
